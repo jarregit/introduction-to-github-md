@@ -23,3 +23,11 @@ $blanklayout = $slideType::ppLayoutTitleOnly
 $ppEffectBlindsVertical = "microsoft.office.interop.powerpoint.SlideShowTransition.EntryEffect.ppEffectBlindsVertical" -as [type]
 ```
 
+Adding a task-list 
+- [x] Add Headers
+- [x] Add an Image
+- [x] Add a code example
+- [ ] Make a task list
+- [ ] Merge your pull request
+- [ ] Continue your journey
+
